@@ -1,4 +1,5 @@
 # Bingo!
+![Llamas](D.png)
 This is an online dingo game. Here is the data diagram:
 
 ## APIs
