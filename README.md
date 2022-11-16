@@ -2,6 +2,12 @@
 ![Llamas](D.png)
 This is an online dingo game. Here is the data diagram:
 
+## Team
+Name | Email | Phone
+--- | --- | ---
+John | j@example.com | (123) 456-7890
+Lenny | l@example.com | (123) 456-7891
+
 ## APIs
 [Join Game](README.md#join-game)
 
